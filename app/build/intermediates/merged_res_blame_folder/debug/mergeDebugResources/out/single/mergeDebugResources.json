@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/xml_backup_rules.xml.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/raw_welcome_animation.json.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/raw/welcome_animation.json"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/drawable_placeholder.xml.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/drawable/placeholder.xml"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/drawable_dispenserbottle.jpg.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/drawable/dispenserbottle.jpg"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/xml_network_security_config.xml.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/drawable_water.jpg.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/drawable/water.jpg"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/drawable_call_call_24.xml.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/drawable/call_call_24.xml"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/drawable_background.jpg.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/drawable/background.jpg"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/drawable_drum.jpg.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/drawable/drum.jpg"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/drawable_message_message_24.xml.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/drawable/message_message_24.xml"
+    },
+    {
+        "merged": "com.example.vetamineralwater.app-debug-69:/drawable_person.xml.flat",
+        "source": "com.example.vetamineralwater.app-main-71:/drawable/person.xml"
+    }
+]

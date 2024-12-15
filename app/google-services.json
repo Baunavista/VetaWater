@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486244925019",
+    "project_id": "vetamineralwater",
+    "storage_bucket": "vetamineralwater.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486244925019:android:214379f188f7767cd4c97e",
+        "android_client_info": {
+          "package_name": "com.example.vetamineralwater"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSPS-m6cBi8eIJCrPBIntckqcVFzCkgk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

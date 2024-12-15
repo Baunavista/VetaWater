@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable background
+drawable call_call_24
+drawable dispenserbottle
+drawable drum
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable message_message_24
+drawable person
+drawable placeholder
+drawable water
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw welcome_animation
+string app_name
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
+style Theme.VETAMINERALWATER
+xml backup_rules
+xml data_extraction_rules
+xml network_security_config
